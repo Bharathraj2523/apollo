@@ -1,0 +1,116 @@
+{
+    "doctors": [
+      {
+        "name": "Dr. Sarah Johnson",
+        "specialization": ["General Physician", "Internal Medicine"],
+        " ": 7,
+        "degrees": ["MBBS", "MD in Internal Medicine"],
+        "location": "New York, USA",
+        "hospital": {
+          "name": "Metropolitan General Hospital",
+          "location": "123 Health St, New York, NY 10001"
+        },
+        "availability": "online",
+        "fee": 450,
+        "language": ["English", "Tamil"]
+      },
+      {
+        "name": "Dr. Michael Chen",
+        "specialization": ["General Practitioner"],
+        "experience": 3,
+        "degrees": ["MBBS", "Diploma in Family Medicine"],
+        "location": "Los Angeles, USA",
+        "hospital": {
+          "name": "Sunset Medical Center",
+          "location": "456 Wellness Ave, Los Angeles, CA 90025"
+        },
+        "availability": "offline",
+        "fee": 150,
+        "language": ["English", "Telugu"]
+      },
+      {
+        "name": "Dr. Aisha Rahman",
+        "specialization": ["Pediatrics", "General Physician"],
+        "experience": 12,
+        "degrees": ["MBBS", "MD in Pediatrics", "Fellowship in Child Health"],
+        "location": "Chicago, USA",
+        "hospital": {
+          "name": "Children's Wellness Hospital",
+          "location": "789 Care Blvd, Chicago, IL 60601"
+        },
+        "availability": "online",
+        "fee": 750,
+        "language": ["English", "Hindi", "Tamil"]
+      },
+      {
+        "name": "Dr. Robert Williams",
+        "specialization": ["Cardiology"],
+        "experience": 15,
+        "degrees": ["MBBS", "MD", "DM in Cardiology"],
+        "location": "Boston, USA",
+        "hospital": {
+          "name": "Heart Care Specialists",
+          "location": "101 Cardiac Lane, Boston, MA 02108"
+        },
+        "availability": "offline",
+        "fee": 1200,
+        "language": ["English"]
+      },
+      {
+        "name": "Dr. Priya Patel",
+        "specialization": ["Dermatology"],
+        "experience": 5,
+        "degrees": ["MBBS", "MD in Dermatology"],
+        "location": "Houston, USA",
+        "hospital": {
+          "name": "Skin and Beauty Clinic",
+          "location": "202 Glow Street, Houston, TX 77002"
+        },
+        "availability": "online",
+        "fee": 600,
+        "language": ["English", "Hindi", "Gujarati"]
+      },
+      {
+        "name": "Dr. James Wilson",
+        "specialization": ["General Practitioner"],
+        "experience": 1,
+        "degrees": ["MBBS"],
+        "location": "Seattle, USA",
+        "hospital": {
+          "name": "Primary Care Associates",
+          "location": "303 Main St, Seattle, WA 98101"
+        },
+        "availability": "online",
+        "fee": 100,
+        "language": ["English"]
+      },
+      {
+        "name": "Dr. Maria Garcia",
+        "specialization": ["Neurology"],
+        "experience": 10,
+        "degrees": ["MBBS", "MD in Neurology"],
+        "location": "Miami, USA",
+        "hospital": {
+          "name": "NeuroCare Institute",
+          "location": "404 Brain Ave, Miami, FL 33101"
+        },
+        "availability": "offline",
+        "fee": 950,
+        "language": ["English", "Hindi"]
+      },
+      {
+        "name": "Dr. David Kim",
+        "specialization": ["Orthopedics"],
+        "experience": 8,
+        "degrees": ["MBBS", "MS in Orthopedics"],
+        "location": "San Francisco, USA",
+        "hospital": {
+          "name": "Bone and Joint Center",
+          "location": "505 Mobility Way, San Francisco, CA 94102"
+        },
+        "availability": "online",
+        "fee": 850,
+        "language": ["Malayalam", "Punjabi"]
+      }
+    ]
+  } 
