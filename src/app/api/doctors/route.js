@@ -5,7 +5,7 @@ import { NextResponse } from 'next/server';
 const uri = 'mongodb+srv://Bharathraj:bharath%40123@cluster0.tvh8p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
 
 const client = new MongoClient(uri);
-
+export const dynamic = 'force-dynamic'
 export async function GET() {
   try {
     await client.connect();

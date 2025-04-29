@@ -43,7 +43,7 @@ export default function Home() {
 
 
   useEffect(() => {
-    fetch('/api/doctors')
+    fetch('https://apollo-gamma.vercel.app/api/doctors')
       .then((res) => res.json())
       .then((data) => {
         if (Array.isArray(data)) {
